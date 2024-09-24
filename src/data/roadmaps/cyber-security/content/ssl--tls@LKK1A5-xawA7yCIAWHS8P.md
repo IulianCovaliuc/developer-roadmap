@@ -1,6 +1,8 @@
 # SSL vs TLS
 
-Single Sign-On (SSO) is an authentication method that allows users to access multiple applications or systems with one set of login credentials. It enables users to log in once and gain access to various connected systems without re-entering credentials. SSO enhances user experience by reducing password fatigue, streamlines access management for IT departments, and can improve security by centralizing authentication controls. It typically uses protocols like SAML, OAuth, or OpenID Connect to securely share authentication information across different domains. While SSO offers convenience and can strengthen security when implemented correctly, it also presents a single point of failure if compromised, making robust security measures for the SSO system critical.
+What's the difference between SSL and TLS?
+
+Secure Sockets Layer (SSL) is a communication protocol, or set of rules, that creates a secure connection between two devices or applications on a network. It’s important to establish trust and authenticate the other party before you share credentials or data over the internet. SSL is technology your applications or browsers may have used to create a secure, encrypted communication channel over any network. However, SSL is an older technology that contains some security flaws. Transport Layer Security (TLS) is the upgraded version of SSL that fixes existing SSL vulnerabilities. TLS authenticates more efficiently and continues to support encrypted communication channels.
 
 Learn more from the following resources:
 
